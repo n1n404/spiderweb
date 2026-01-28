@@ -32,19 +32,19 @@ h1 {
 
 span {color: rgb(255, 0, 255);}
 .pozadina{
-	background-image: url("C:/Users/ninam/Pictures/background.jpg");
+	background-image: url("background.jpg");
 	background-size: 1337px 958px;
 }
 .drugapozadina {
-	background-image:url("C:/Users/ninam/Pictures/catwoman.png");
+	background-image:url("catwoman.png");
 	background-size: 1400px 851px;
 }
 .trecapozadina {
-	background-image:url("C:/Users/ninam/Pictures/shyguy.png");
+	background-image:url("shyguy.png");
 	background-size: 1391px 838px;
 }
 .cetvrtapozadina {
-	background-image:url("C:/Users/ninam/Pictures/Screenshots/dnevni.png");
+	background-image:url("dnevni.png");
 	background-size: 1530px 868px;
 }
 .right-link {
@@ -123,3 +123,4 @@ img {
 	right: -350px;
 	bottom: -700px;
 }
+
