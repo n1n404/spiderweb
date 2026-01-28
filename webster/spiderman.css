@@ -1,0 +1,125 @@
+@charset "utf-8";
+/*CSS Document*/
+p {
+	color: cyan;
+	font-family: "CabinSkatch", monospace;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: gray;
+	padding: 10px;
+}
+.paragraf_2 {
+	color:cyan; background-color: rgba(000, 005, 005, 0.9)};
+	
+.novi_blok {
+	color: blue;
+	background-color: cyan;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+h3 {
+	font-family: Gotham, "CabinSkatch", Arial, "sans-serif";
+	color: cyan;
+}
+
+
+h1 {
+	font-family: Gotham, "NinaMaslesa", Arial, "sans-serif";
+	color: cyan;
+}
+
+span {color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("C:/Users/ninam/Pictures/background.jpg");
+	background-size: 1337px 958px;
+}
+.drugapozadina {
+	background-image:url("C:/Users/ninam/Pictures/catwoman.png");
+	background-size: 1400px 851px;
+}
+.trecapozadina {
+	background-image:url("C:/Users/ninam/Pictures/shyguy.png");
+	background-size: 1391px 838px;
+}
+.cetvrtapozadina {
+	background-image:url("C:/Users/ninam/Pictures/Screenshots/dnevni.png");
+	background-size: 1530px 868px;
+}
+.right-link {
+	 position: absolute;
+	right: 550px;
+	bottom: -1700px;
+}
+
+.left-link {
+	 position: absolute;
+	right: 250px;
+	bottom: -1700px;
+}
+.bright-link {
+	position: absolute;
+	right: 1300px;
+	bottom: -200px;
+}
+.lol-link {
+	 position: absolute;
+	right: 30px;
+	bottom: -200px;
+}
+.bad-link {
+	 position: absolute;
+	right: -100px;
+	bottom: -200px;
+}
+.weird-link {
+	 position: absolute;
+	right: 200px;
+	bottom: -200px;
+}
+.good-link {
+	 position: absolute;
+	right: 1000px;
+	bottom: -200px;
+}
+h7 {
+	 position: absolute;
+	right: 360px;
+	bottom: 270px;
+	video-size: 50px;
+}
+
+h8 {
+	 position: absolute;
+	right: 130px;
+	bottom: -1100px;
+	video-size: 50px;
+}
+  
+a:link {
+	color: blue;
+	background-color: cyan;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover {
+	background-color: gray;
+}
+img {
+	height: 200px;
+
+}
+
+.content-section {
+  width: 900px;
+  margin: 0 auto 120px;
+  padding: 40px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 24px;
+  color: white;
+   position: absolute;
+	right: -350px;
+	bottom: -700px;
+}
